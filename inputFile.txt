@@ -1,0 +1,17 @@
+(dp0
+S'wedgeLength'
+p1
+(lp2
+S'1.0'
+p3
+asS'wedgeThickness'
+p4
+(lp5
+S'0.1'
+p6
+asS'solver'
+p7
+(lp8
+S'PT'
+p9
+as.
